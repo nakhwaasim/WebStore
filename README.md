@@ -1,2 +1,0 @@
-# WebStore
-E-Commerce Website
